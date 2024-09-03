@@ -2,15 +2,7 @@
 
 ## Overview
 
-TCP Chatroom is a real-time chat application developed in Python. It allows multiple clients to connect to a server, send messages, and interact within a chatroom environment. The application features administrative commands for user management.
-
-## Features
-
-- **Multi-Client Support**: Handle multiple simultaneous client connections using threading.
-- **Command Handling**: Admins can kick users from the chatroom using the `/kick` command.
-- **User Management**: Dynamic management of user nicknames and admin privileges.
-- **Robust Error Handling**: Manage unexpected client disconnections and network issues gracefully.
-- **Real-Time Communication**: Instant message delivery between clients and the server.
+This is a real-time chat application developed in Python. It allows multiple clients to connect to a server and send messages within a chatroom environment.
 
 ## Requirements
 
